@@ -1,11 +1,11 @@
-import { Box } from '@chakra-ui/react'
+import { Box, Grid } from '@chakra-ui/react'
 import React from 'react'
 
 const AddCard = () => {
   return (
-    <Box>
+    <Grid placeContent="start center">
       pagina de adicionar cardd
-    </Box>
+    </Grid>
   )
 }
 

@@ -1,11 +1,11 @@
-import { Box } from '@chakra-ui/react'
+import { Box, Grid } from '@chakra-ui/react'
 import React from 'react'
 
 const Home = () => {
   return (
-    <Box>
+    <Grid placeContent="start center">
       essa é a pagina home
-    </Box>
+    </Grid>
   )
 }
 
