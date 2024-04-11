@@ -27,7 +27,6 @@ const Sidebar = () => {
             <Image src={Home} alt="" /> Home
           </Text>
         </ChakraLink>
-
         <ChakraLink
           _hover={{ backgroundColor: "#22284F" }}
           borderRadius="8px"
